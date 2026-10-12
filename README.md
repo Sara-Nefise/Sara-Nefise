@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sara!
 
-### 💡 Software Engineer Transitioning to AI | Flutter Developer | Enthusiast in RAG & Agentic Systems
+### 💡 Software Engineer Transitioning to AI
 
 
 <!-- You can add your social links here -->
